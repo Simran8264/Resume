@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simran's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            margin-top: 0;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        .section p {
+            margin: 5px 0;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li::before {
+            content: "\2022";  /* Add bullet point */
+            color: black; /* Change the color */
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Simran</h1>
+            <div class="contact-info">
+                <p>72 Heslop Circle</p>
+                <p>Brampton, ON L6R0M7</p>
+                <p>9057819902</p>
+                <p>simrandeepkaur8222@gmail.com</p>
+            </div>
+        </header>
+        
+        <section class="section">
+            <h2>SUMMARY</h2>
+            <p>Professional with extensive experience who has demonstrated success in quality assurance, packaging, machine operation, and skilled analysis. Competent in gathering, analyzing, and presenting facts. Demonstrated proficiency in modeling, forecasting, and statistical analysis: excellent problem-solving skills and a strong attention to detail. An amiable and friendly attitude makes me well-suited to deliver outstanding accounting service.</p>
+        </section>
+        
+        <section class="section">
+            <h2>SKILLS</h2>
+            <ul>
+                <li>Customer Service</li>
+                <li>Product Knowledge</li>
+                <li>Multi-tasking</li>
+                <li>Microsoft Office Proficiency</li>
+                <li>Excel Expertise</li>
+                <li>Financial Problem-Solving</li>
+                <li>Team Collaboration</li>
+                <li>Machinery Operation and Maintenance</li>
+                <li>Quality Control</li>
+                <li>Reliability and Punctuality</li>
+                <li>Friendly and Outgoing Personality</li>
+            </ul>
+        </section>
+        
+        <section class="section">
+            <h2>EXPERIENCE</h2>
+            <h3>MULTIMOLD PLASTIC INC. - Machine Operator (Dec 2022 – Oct 2023)</h3>
+            <ul>
+                <li>Ensured daily production targets were met as per the production schedule, achieving an average output rate of 500 units per shift.</li>
+                <li>Operated and maintained machinery, minimizing downtime through regular inspections and performing preventative maintenance.</li>
+                <li>Implemented quality control measures, reducing defects by 15% and improving overall product quality.</li>
+                <li>Adhered to strict safety protocols, resulting in a zero-accident record and promoting a safe working environment.</li>
+                <li>Collaborated with cross-functional teams, such as production and quality control, to optimize processes and address production issues.</li>
+            </ul>
+            
+            <h3>MULTIMOLD PLASTIC INC. - Packer (Aug 2022 – Dec 2022)</h3>
+            <ul>
+                <li>Accurately packed plastic products into various containers and packages following quantity and arrangement guidelines.</li>
+                <li>Conducted quality control checks to identify and address defects or irregularities in packed products.</li>
+                <li>Measured and weighed products to ensure compliance with packaging specifications and weight requirements.</li>
+                <li>Applied labels, barcodes, and other identifying marks to packaging materials as required.</li>
+                <li>Prioritized safety protocols, adhering to workplace safety guidelines and keeping the work area clean and orderly.</li>
+            </ul>
+            
+            <h3>E-NEXT ACADEMY - Data Analyst (Jan 2022 – Aug 2022)</h3>
+            <ul>
+                <li>Manage all clerical documents using advanced skills in Microsoft Office to create, edit and print correspondence.</li>
+                <li>Monitor office inventory and keep track of supplies with advanced skills in Microsoft Excel.</li>
+                <li>Advanced skills using outlook features like calendar and scheduling, using the program in a professional manner.</li>
+                <li>Fixed any financial issues that popped up and shared financial info with others in the company.</li>
+            </ul>
+        </section>
+        
+        <section class="section">
+            <h2>EDUCATION</h2>
+            <p>COMPUTER ENGINEERING TECHNICIAN - Pures College of Technology, 2022 - 2024</p>
+            <p>SENIOR STUDY 2 - Senior Secondary Education, 2019 – 2020</p>
+        </section>
+    </div>
+</body>
+</html>
+    
